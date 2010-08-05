@@ -12,14 +12,14 @@ setplot(xdata, ydata, pretty.call = TRUE, maxdim, axes = FALSE)
 \arguments{
   \item{xdata}{A vector of x coordinates}
   \item{ydata}{A vector of y coordinates}
-  \item{pretty.call}{ ~~Describe \code{pretty.call} here~~ }
-  \item{maxdim}{ ~~Describe \code{maxdim} here~~ }
-  \item{axes}{ ~~Describe \code{axes} here~~ }
+  \item{pretty.call}{ TODO }
+  \item{maxdim}{TODO }
+  \item{axes}{ TODO}
 }
 
 \value{Reset graphical parameters}
 
-\author{Gilles Guillot}
+\author{Unknown}
 
 \keyword{}
 
